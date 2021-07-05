@@ -4,7 +4,7 @@
 * :blue_book: My Blogs:  [blog](https://dhavalkotak.github.io)
 * :mortar_board: Studying Bachelor Of Computer Application
 * 🌱 Self Learning Cyber Security 
-* 📫 Send me a Email : [protonmail](mailto:kotakdhaval01@protonmail.com) or [gmail](kotakdhaval01@gmail.com)
+* 📫 Send me a Email : [protonmail](mailto:kotakdhaval01@protonmail.com) or [gmail](mailto:kotakdhaval01@gmail.com)
 
 <!--
 **DhavalKotak/DhavalKotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
