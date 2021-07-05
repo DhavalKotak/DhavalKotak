@@ -1,6 +1,6 @@
 #### About me
 
-* :name_badge: My Website [dhavalkotak](https://dhavalkotak.github.io/portfolio)
+* :name_badge: My Website: [dhavalkotak](https://dhavalkotak.github.io/portfolio)
 * :blue_book: My Blogs:  [blog](https://dhavalkotak.github.io)
 * :mortar_board: Studying Bachelor Of Computer Application
 * 🌱 Self Learning Cyber Security and Web Development
