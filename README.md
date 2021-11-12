@@ -1,7 +1,7 @@
 #### About me
 
 * :name_badge: My Website: [dhavalkotak](https://dhavalkotak.github.io/portfolio)
-* :blue_book: My Blogs:  [blog](https://dhavalkotak.github.io)
+* 📗 My GitBook: [GitBook](https://dhaval-kotak.gitbook.io/home-1/)
 * :mortar_board: Studying Bachelor Of Computer Application
 * 🌱 Self Learning Cyber Security and Web Development
 * 📫 Send me a Email : [protonmail](mailto:kotakdhaval01@protonmail.com) or [gmail](mailto:kotakdhaval01@gmail.com)
