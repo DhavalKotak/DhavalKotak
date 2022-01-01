@@ -6,8 +6,17 @@
 * 🌱 Self Learning Cyber Security and Web Development
 * 📫 Send me a Email : [protonmail](mailto:kotakdhaval01@protonmail.com) or [gmail](mailto:kotakdhaval01@gmail.com)
 
+### Languages and Tools:
 
-[![Nanomite07](img/profile.png)](https://tryhackme.com/p/Nanomite07)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<a href="https://github.com/DhavalKotak">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DhavalKotak&show_icons=true&theme=dark&line_height=27" alt="Dhaval's github stats"/>
+</a>
+<br><br>
 
 <!--
 **DhavalKotak/DhavalKotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
